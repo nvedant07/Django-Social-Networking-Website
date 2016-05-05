@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void) {
+	// your code goes here
+	int num=1;
+	printf("hi: %d",printf("%d",num));
+	return 0;
+}
+
